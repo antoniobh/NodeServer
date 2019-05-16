@@ -1,0 +1,6 @@
+Correr el comando
+npm install forever -g
+
+despues correrr el comando
+
+forever start index.js
